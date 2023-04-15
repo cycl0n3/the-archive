@@ -1,0 +1,36 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "item": "bread"
+    },
+    {
+      "id": 2,
+      "item": "grapes"
+    },
+    {
+      "id": 3,
+      "item": "wine"
+    },
+    {
+      "item": "water",
+      "id": 4
+    },
+    {
+      "item": "spaghetty",
+      "id": 5
+    },
+    {
+      "item": "cola",
+      "id": 6
+    },
+    {
+      "item": "mineral water",
+      "id": 7
+    },
+    {
+      "item": "chocolate",
+      "id": 8
+    }
+  ]
+}

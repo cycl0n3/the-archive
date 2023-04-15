@@ -1,0 +1,13 @@
+.cart-success-wrapper {
+  border-top: black solid 1px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cart-success-wrapper h2 {
+  width: 100%;
+}
+
+.item {
+  margin-right: 20px;
+}
