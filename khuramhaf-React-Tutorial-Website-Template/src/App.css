@@ -1,0 +1,49 @@
+.mainnav{
+
+
+
+  background-color:white;
+ 
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding-top:20px;
+  padding-right:20px;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.mainroutes{
+
+  margin-top:70px;
+  padding-left:3%;
+  padding-right:5%;
+  box-sizing: border-box;
+
+}
+
+
+.bloglink1{
+
+  margin-left:3%;
+  text-decoration: none;
+  display:inline-block;
+  box-sizing: border-box;
+  font-size: 18px;
+}
+.bloglink{
+  box-sizing: border-box;
+
+  text-decoration: none;
+
+  display:inline-block;
+  padding:10px;
+  padding-left:20px;
+  padding-right:20px;
+  font-size: 18px;
+}
