@@ -1,0 +1,2 @@
+Main-Class: org.catacombae.dua.DiskUsageAnalyzer
+Class-Path: filedrop.jar swing-layout-1.0.3.jar

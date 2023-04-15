@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<jnlp spec="1.0+" codebase="http://www.catacombae.org/jnlp/diskusageanalyzer/" href="diskusageanalyzer.jnlp">
+	<information>
+      		<title>DiskUsageAnalyzer</title>
+      		<vendor>Catacombae</vendor>
+		<description>Shows a tree view of disk usage for a (sub)tree of your file system.</description>
+		<homepage href="http://www.catacombae.org/"/>
+		<description kind="short">Shows a tree view of disk usage for a (sub)tree of your file system.</description>
+		<offline-allowed/>
+		<shortcut online="false">
+			<desktop/>
+			<menu submenu="Catacombae Software"/>
+		</shortcut>
+	</information>
+	<resources>     
+		<jar href="dua.jar"/>
+		<jar href="swing-layout-1.0.3.jar"/>
+		<jar href="filedrop.jar"/>
+		<j2se version="1.5+" href="http://java.sun.com/products/autodl/j2se" max-heap-size="512m"/>
+	</resources>
+	<security>
+		<all-permissions/>
+	</security>
+	<application-desc main-class="org.catacombae.dua.DiskUsageAnalyzer"/>
+</jnlp>

@@ -1,0 +1,47 @@
+DiskUsageAnalyzer changelog
+---------------------------
+
+1.0.3
+-----
+- Fixed incorrect usage of java.awt.Desktop class before determining if the
+  Desktop API is supported on the current platform.
+
+1.0.2
+-----
+- When running on Mac OS X, the program now uses the native Mac OS X file dialog
+  when selecting the directory to analyze.
+
+1.0.1
+-----
+- Added the ability to simulate a right click by Ctrl-clicking to bring up a
+  context menu (useful for Macs with only one mouse button).
+- Added a 'New window' menu option, available when running on Mac OS X. This was
+  added since it is inconvenient and non-trivial to start multiple instances of
+  an application in Mac OS X.
+
+1.00
+----
+- Added "." to the listings of a directory, meaning only the files in that
+  directory excluding subdirectories. Makes it easier to spot where the heavy
+  data is.
+- "Refresh subtree" functionality added, making it easier to incrementally clean
+  up unused data from the disk. You can now delete some files in your Download
+  directory and immediately refresh that directory to update that part of the
+  disk usage tree.
+  This function is accessed through right-clicking on a folder in the disk usage
+  tree.
+- "Open" functionality added, also in the right-click menu of a folder. This
+  invokes environment-specific routines for opening a window displaying a
+  folder's contents.
+- Status field added at the bottom of the application, displaying which
+  directory is currently being analyzed.
+- Abort functionality added, displaying the (incomplete) tree that has been
+  built so far.
+- Made the application remember the last directory that was browsed, instead of
+  always reverting to OS default.
+- Added drag and drop for directories onto the application window, as method of
+  specifying the directory to analyze.
+
+0.80
+----
+- First release
