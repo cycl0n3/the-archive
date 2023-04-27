@@ -1,0 +1,1272 @@
+<books>
+    <book>
+        <name>KDE Programming Bible103</name>
+        <publisher>Hungry Minds</publisher>
+        <year>2000</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Arthur Griffith</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft .NET for Programmers</name>
+        <publisher>Manning</publisher>
+        <year>2002</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Fergal Grimes</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Programming with Managed Extensions for Microsoft Visual C++ .NET</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2002</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Richard Grimes</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>The Flash Anthology: Cool Effects and Practical ActionScript</name>
+        <publisher>SitePoint Pty Ltd</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Steve Grosvenor</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft SQL Server 2000 Programming by Example</name>
+        <publisher>QUE</publisher>
+        <year>2001</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Carlos Rojas</name>
+            </author>
+            <author>
+                <name>Fernando Guerrero</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft .NET and J2EE Interoperability Toolkit</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2003</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Simon Guest</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Coder to Developer: Tools and Strategies for Delivering Your Software</name>
+        <publisher>Sybex</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Mike Gunderloy</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>10 Minute Guide to Microsoft Access 2002</name>
+        <publisher>Que</publisher>
+        <year>2001</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Joe Habraken</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft Office 2003 All-in-One</name>
+        <publisher>Que</publisher>
+        <year>2003</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Joe Habraken</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Object-Oriented Programming with ActionScript</name>
+        <publisher>New Riders Press</publisher>
+        <year>2002</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Branden Hall</name>
+            </author>
+            <author>
+                <name>Samuel Wan</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft Visual Basic 2005 Step by Step</name>
+        <publisher>Microsoft Prsa,2006</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>MichaelHalvorson</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>ADO.NET Cookbook</name>
+        <publisher>Oreilly &amp; Associates Inc</publisher>
+        <year>2008</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Bill Hamilton</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Visual Basic Shell Programming</name>
+        <publisher>DK ADULT</publisher>
+        <year>1900</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>J. P. Hamilton</name>
+            </author>
+            <author>
+                <name>Ron Petrusha</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Software Development: Building Reliable Systems</name>
+        <publisher>Prentice Hall</publisher>
+        <year>1999</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Marc Hamilton</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Programming the Nintendo Game Boy Advance: The Unofficial Guide</name>
+        <publisher>Course Technology PTR</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Jonathan S. Harbour</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft Visual Basic: Game Programming for Teens</name>
+        <publisher>Course Technology PTR</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Jonathan S.(Jonathan S. Harbour) Harbour</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Automating Microsoft Access with VBA</name>
+        <publisher>Que</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Mike Sales Gunderloy</name>
+            </author>
+            <author>
+                <name>Susan Sales Harkins</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Software That Sells: A Practical Guide to Developing and Marketing Your Software Project</name>
+        <publisher>Wiley</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Edward Hasted</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>MCSD Training Guide: Visual Basic 6 Exams</name>
+        <publisher>QUE</publisher>
+        <year>1999</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Howard Hawhee</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Preventative Programming Techniques: Avoid and Correct Common Mistakes</name>
+        <publisher>Charles River Media</publisher>
+        <year>2003</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Brian Hawkins</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Excel 2007 for project managers</name>
+        <publisher>Wiley Pub</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Kim Heldman</name>
+            </author>
+            <author>
+                <name>William Heldman</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Motif Programming Manual, Vol 6A</name>
+        <publisher>O'Reilly Media</publisher>
+        <year>1993</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>David Brennan</name>
+            </author>
+            <author>
+                <name>Dan Heller</name>
+            </author>
+            <author>
+                <name>Paula Ferguson</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Visual Basic 2005 Recipes</name>
+        <publisher>Apress</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Matthew MacDonald</name>
+            </author>
+            <author>
+                <name>Allen Jones</name>
+            </author>
+            <author>
+                <name>Rakesh Rajan</name>
+            </author>
+            <author>
+                <name>Todd Herman</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Agile Software Development Ecosystems</name>
+        <publisher>Addison-Wesley</publisher>
+        <year>2002</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Jim Highsmith</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft SharePoint: Building Office 2007 Solutions in C# 2005</name>
+        <publisher>Apress</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Scot P. Hillier</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft SharePoint: Building Office 2007 Solutions in VB 2005</name>
+        <publisher>Apress</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Scot P. Hillier</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Advanced Sharepoint Services Solutions</name>
+        <publisher>Apress</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Scot P. Hillier</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft SQL Server 2000 Reporting Services Step by Step</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Hitachi Consulting</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft Visual C# 2005 Unleashed</name>
+        <publisher/>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Hoffman K.</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft SharePoint 2007 Development Unleashed</name>
+        <publisher>Sams</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Kevin Hoffman</name>
+            </author>
+            <author>
+                <name>Robert Foster</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Embedded Linux&#174;: Hardware, Software, and Interfacing</name>
+        <publisher>Addison-Wesley Professional</publisher>
+        <year>2002</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Craig Hollabaugh</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Expert .NET Delivery Using NAnt and CruiseControl.NET</name>
+        <publisher>Apress; Distributed to the book trade in the U.S. by Springer-Verlag New York</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Marc Holmes</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Focus on Mod programming in Quake 3 Arena</name>
+        <publisher>Course Technology PTR</publisher>
+        <year>2002</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Shawn Holmes</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft Visual C# .NET 2003 Kick Start</name>
+        <publisher>Sams</publisher>
+        <year>2003</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Steven Holzner</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Visual Basic 6 black book: indispensable problem solver</name>
+        <publisher>Coriolis Technology Press</publisher>
+        <year>1998</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Steven Holzner</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Write Portable Code: An Introduction to Developing Software for Multiple Platforms</name>
+        <publisher>No Starch Press</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Brian Hook</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Writing Secure Code</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2002</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Michael Howard</name>
+            </author>
+            <author>
+                <name>David LeBlanc</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>The Security Development Lifecycle: SDL: A Process for Developing Demonstrably More Secure Software</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Michael Howard</name>
+            </author>
+            <author>
+                <name>Steve Lipner</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Schaum's Outline of Programming with C ++</name>
+        <publisher>Mcgraw-Hill</publisher>
+        <year>1996</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Hubbard J. R.</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Pragmatic unit testing: in C# with NUnit</name>
+        <publisher>Pragmatic Bookshelf</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Andy Hunt</name>
+            </author>
+            <author>
+                <name>Dave Thomas</name>
+            </author>
+            <author>
+                <name>Matt Hargett</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Agile Software Construction</name>
+        <publisher>Prentice Hall PTR</publisher>
+        <year>2001</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Craig Larman</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Beginning SharePoint 2007 Administration: Windows SharePoint Services 3 and Microsoft Office SharePoint
+            Server 2007
+        </name>
+        <publisher>Wrox</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>G&#246;ran Husman</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>MCITP Administrator: Microsoft SQL Server 2005 Optimization and Maintenance Study Guide (70-444)</name>
+        <publisher>Sybex</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Victor Isakov</name>
+            </author>
+            <author>
+                <name>Marilyn Miller-White</name>
+            </author>
+            <author>
+                <name>J. Steven Jones</name>
+            </author>
+            <author>
+                <name>Andy Warren</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Structure Formation in Solution Ionic Polymers and Colloidal Particles</name>
+        <publisher>Springer</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Ikuo Sogami Norio Ise</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Effective Software Maintenance and Evolution: A Reuse-Based Approach</name>
+        <publisher>Auerbach Publications</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Stanislaw Jarzabek</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Embedded Software for SoC</name>
+        <publisher/>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Jerraya A.A.</name>
+            </author>
+            <author>
+                <name>Yoo S.</name>
+            </author>
+            <author>
+                <name>Verkest D. (eds.)</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>MCPD Self-Paced Training Kit (Exam 70-548)</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Anthony Northrup</name>
+            </author>
+            <author>
+                <name>Shawn Wildermuth</name>
+            </author>
+            <author>
+                <name>Matthew A. Stoecker</name>
+            </author>
+            <author>
+                <name>Steven J. Stein</name>
+            </author>
+            <author>
+                <name>Bruce Johnson</name>
+            </author>
+            <author>
+                <name>Mike Snell</name>
+            </author>
+            <author>
+                <name>Bill Ryan</name>
+            </author>
+            <author>
+                <name>GrandMasters</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Programming Microsoft ADO.NET 2.0 Applications: Advanced Topics</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Glenn Johnson</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Network Programming for Microsoft Windows</name>
+        <publisher>Microsoft Press</publisher>
+        <year>1999</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Jones A.</name>
+            </author>
+            <author>
+                <name>Ohlund J.</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Network Programming for the Microsoft .NET Framework</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2003</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Anthony Jones</name>
+            </author>
+            <author>
+                <name>Jim Ohlund</name>
+            </author>
+            <author>
+                <name>Lance Olson</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>VBScript, WMI and ADSI unleashed: using VBSscript, WMI, and ADSI to automate Windows administration</name>
+        <publisher>Sams</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Don Jones</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Computability and Complexity: From a Programming Perspective</name>
+        <publisher/>
+        <year>1997</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Jones N.</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Component-Oriented Programming</name>
+        <publisher>Wiley</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Andy Ju An Wang</name>
+            </author>
+            <author>
+                <name>Kai Qian</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Shellcoder's Programming Uncovered</name>
+        <publisher>A-List Publishing</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Kris Kaspersky</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Programming Flex 2: The comprehensive guide to creating rich media applications with Adobe Flex</name>
+        <publisher>O'Reilly Media</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Chafic Kazoun</name>
+            </author>
+            <author>
+                <name>Joey Lott</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>DOM Scripting</name>
+        <publisher>friends of ED</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Jeremy Keith</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>ASP.NET 2.0 demystified</name>
+        <publisher>McGraw-Hill/Osborne</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>James Keogh</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>The Apache Modules Book: Application Development with Apache (Prentice Hall Open Source Software
+            Development Series)
+        </name>
+        <publisher>Prentice Hall PTR</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Nick Kew</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>ASP.NET 2.0 AJAX Programmer's Reference</name>
+        <publisher/>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Khosravi S.</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Advanced C# Programming</name>
+        <publisher>McGraw-Hill\/OsborneMedia</publisher>
+        <year>2002</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Kimmel P.</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>VBScript Programmer's Reference</name>
+        <publisher>Wiley</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Adrian Kingsley-Hughes</name>
+            </author>
+            <author>
+                <name>Kathie Kingsley-Hughes</name>
+            </author>
+            <author>
+                <name>Daniel Read</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>VBScript Programmer's Reference</name>
+        <publisher>Wrox</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Adrian Kingsley-Hughes</name>
+            </author>
+            <author>
+                <name>Kathie Kingsley-Hughes</name>
+            </author>
+            <author>
+                <name>Daniel Read</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Designing Component-Based Applications</name>
+        <publisher>Microsoft Press</publisher>
+        <year>1999</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>M. kirt land</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft Visual C++ .NET: professional projects</name>
+        <publisher>Premier Press, Inc</publisher>
+        <year>2002</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Sripriya Kishore</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>The art of computer programming (Volume 3)</name>
+        <publisher/>
+        <year>1973</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Knuth D.E.</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Mastering TypoScript</name>
+        <publisher>Packt Publishing</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Daniel Koch</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Free/open source software development</name>
+        <publisher>Idea Group Pub</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Stefan Koch</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Programming in C: A Complete Introduction to the C Programming Language</name>
+        <publisher>Sams</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Stephen G. Kochan</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft SQL Server 2000 Weekend Crash Course</name>
+        <publisher>Hungry Minds</publisher>
+        <year>2001</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Alex Kriegel</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Building Software: A Practitioner's Guide</name>
+        <publisher/>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Nikhilesh Krishnamurthy</name>
+            </author>
+            <author>
+                <name>Amitabh Saran</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Software Architecture Design Patterns in Java</name>
+        <publisher>Auerbach Publications</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Partha Kuchana</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Doing objects in Visual basic 2005</name>
+        <publisher>Addison-Wesley</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Deborah Kurata</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft SharePoint Technologies: Planning, Design, and Implementation</name>
+        <publisher>Digital Press</publisher>
+        <year>2000</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Mike Daugherty</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft Reporting Services in Action</name>
+        <publisher>Manning Publications</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Teo Lachev</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>AspectJ in Action: Practical Aspect-Oriented Programming</name>
+        <publisher>Manning Publications</publisher>
+        <year>2003</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Ramnivas Laddad</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft&#174; Office Access&#8482; 2007 Step by Step</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Steve Lambert</name>
+            </author>
+            <author>
+                <name>M. Dow Lambert III</name>
+            </author>
+            <author>
+                <name>Joan Lambert III</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Object-Oriented Metrics in Practice: Using Software Metrics to Characterize, Evaluate, and Improve the
+            Design of Object-Oriented Systems
+        </name>
+        <publisher>Springer</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Michele Lanza</name>
+            </author>
+            <author>
+                <name>Radu Marinescu</name>
+            </author>
+            <author>
+                <name>S. Ducasse</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Agile and Iterative Development (Agile Software Development Series): A Manager's Guide</name>
+        <publisher>Addison-Wesley Professional</publisher>
+        <year>2003</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Craig Larman</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft SQL Server 2000 Reporting Services</name>
+        <publisher>McGraw-Hill Osborne Media</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Brian Larson</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Application Interoperability: Microsoft .NET and J2EE</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Microsoft Corporation</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Understanding Open Source and Free Software Licensing</name>
+        <publisher>O'Reilly Media</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Andrew M. St. Laurent</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Practical Software Factories in .NET</name>
+        <publisher>Apress; Distributed by Springer-Verlag</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Gunther Lenz</name>
+            </author>
+            <author>
+                <name>Christoph Wienands</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Multithreaded Programming with JAVA&#8482; Technology</name>
+        <publisher>Prentice Hall</publisher>
+        <year>1999</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Bil Lewis</name>
+            </author>
+            <author>
+                <name>Daniel J. Berg</name>
+            </author>
+            <author>
+                <name>Sun Microsystems Press</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Effective Software Test Automation: Developing an Automated Software Testing Tool</name>
+        <publisher>Sybex</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Kanglin Li</name>
+            </author>
+            <author>
+                <name>Mengqi Wu</name>
+            </author>
+            <author>
+                <name>Sybex</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Expert .NET 2.0 IL Assembler</name>
+        <publisher>Apress; Distributed to the book trade by Springer-Verlag</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Serge Lidin</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Art of Software Modeling</name>
+        <publisher>Auerbach Publications</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Benjamin A. Lieberman</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Designing Distributed Environments with Intelligent Software Agents</name>
+        <publisher>Information Science Publishing</publisher>
+        <year>2004</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Fuhua Oscar Lin</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Refactoring in Large Software Projects</name>
+        <publisher>John Wiley &amp; Sons</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Martin Lippert</name>
+            </author>
+            <author>
+                <name>Stephen Roock</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Delphi in a Nutshell</name>
+        <publisher>O'Reilly Media</publisher>
+        <year>2000</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Ray Lischner</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft SQL Server 2005 Reporting Services</name>
+        <publisher>Sams Publishing</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Lisin M.</name>
+            </author>
+            <author>
+                <name>Joseph J.</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Trends in Functional Programming</name>
+        <publisher>Intellect (UK)</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Hans-Wolfgang Loidl</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft Windows Sharepoint Services Version 3. 0 Step by Step</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Olga Londer</name>
+            </author>
+            <author>
+                <name>Bill English</name>
+            </author>
+            <author>
+                <name>Todd Bleeker</name>
+            </author>
+            <author>
+                <name>Penelope Coventry</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Advanced ActionScript 3 with Design Patterns</name>
+        <publisher>Adobe Press</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Joey Lott</name>
+            </author>
+            <author>
+                <name>Danny Patterson</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>FileMaker 8 Functions and Scripts Desk Reference</name>
+        <publisher>QUE</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Scott Love</name>
+            </author>
+            <author>
+                <name>Steve Lane</name>
+            </author>
+            <author>
+                <name>Bob Bowers</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Word 2003 Visual Basic Programming</name>
+        <publisher>Lulu.com</publisher>
+        <year>2005</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>John Low</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Programming WCF Services</name>
+        <publisher>O'Reilly Media</publisher>
+        <year>2007</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Juval Lowy</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Advanced Microsoft Visual Basics 6.0</name>
+        <publisher>Microsoft Press</publisher>
+        <year>1998</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Mandelbrot Set International Ltd</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Microsoft Visual Basic .Net Programmer's Cookbook</name>
+        <publisher>Microsoft Press</publisher>
+        <year>2003</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Matthew MacDonald</name>
+            </author>
+        </authors>
+    </book>
+    <book>
+        <name>Macromedia FLASH 5. ActionScript-Referenzhandbuch</name>
+        <publisher/>
+        <year>2000</year>
+        <language>English</language>
+        <authors/>
+    </book>
+    <book>
+        <name>Software Evolution and Feedback: Theory and Practice</name>
+        <publisher>Wiley</publisher>
+        <year>2006</year>
+        <language>English</language>
+        <authors>
+            <author>
+                <name>Nazim H. Madhavji</name>
+            </author>
+            <author>
+                <name>Juan Fernandez-Ramil</name>
+            </author>
+            <author>
+                <name>Dewayne Perry</name>
+            </author>
+        </authors>
+    </book>
+</books>
