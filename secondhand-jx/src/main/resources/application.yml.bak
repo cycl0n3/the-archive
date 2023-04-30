@@ -1,0 +1,59 @@
+spring:
+    application:
+        name: secondhand
+    jpa:
+        hibernate:
+            ddl-auto: none
+            naming:
+                physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+            database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+        show-sql: true
+        dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+        format_sql: true
+        use_sql_comments: true
+    jdbc:
+        batch_size: 50
+    datasource:
+        url: jdbc:mysql://localhost:3306/secondhand?useSSL=false
+        username: secondhand
+        password: password
+        driver-class-name: org.mariadb.jdbc.Driver
+        initial-size: 5
+        min-idle: 5
+        max-active: 20
+        max-wait: 30000
+        time-between-eviction-runs-millis: 60000
+        min-evictable-idle-time-millis: 300000
+        validation-query: SELECT 1
+        test-while-idle: true
+        test-on-borrow: false
+        test-on-return: false
+        pool-prepared-statements: true
+        max-pool-prepared-statement: 20
+        max-pool-prepared-statement-per-connection-size: 20
+        filters: log4j
+        aop-patterns: com.springboot.servie.*
+
+        filter:
+            stat:
+                log-slow-sql: true
+                slow-sql-millis: 2000
+
+app:
+    jwt:
+        # Signing key for HS512 algorithm
+        # In http://www.allkeysgenerator.com/ you can generate all kinds of keys
+        secret: v9y$B&E)H@MbQeThWmZq4t7w!z%C*F-JaNdRfUjXn2r5u8x/A?D(G+KbPeShVkYp
+        expiration:
+            minutes: 120000
+    cors:
+        allowed-origins: http://localhost:5173
+
+logging:
+    level:
+        org.springframework.security: DEBUG
+        org.hibernate.SQL: DEBUG
+
+server:
+    shutdown: graceful
+    port: 8080
